@@ -8,3 +8,5 @@ cssselect
 scrapelib==0.9.1
 mechanize
 mock
+dictdiffer==0.0.4
+beanstalkc==0.3.0
